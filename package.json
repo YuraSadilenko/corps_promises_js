@@ -1,0 +1,19 @@
+{
+  "name": "corp",
+  "version": "1.0.0",
+  "description": "practice js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuraSadilenko/corps_promises_js.git"
+  },
+  "author": "yura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuraSadilenko/corps_promises_js/issues"
+  },
+  "homepage": "https://github.com/YuraSadilenko/corps_promises_js#readme"
+}
